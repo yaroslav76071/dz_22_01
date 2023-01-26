@@ -1,0 +1,52 @@
+{
+    "PRODUCTS": {
+        "product1": {
+            "img": "./img/apple.png",
+            "name": "Яблоко",
+            "price": "2 руб",
+            "number": "11 тонн"
+        },
+        "product2": {
+            "img": "./img/arbuz.png",
+            "name": "Арбуз",
+            "price": "10 руб",
+            "number": "77 тонн"
+        },
+        "product3": {
+            "img": "./img/banan.png",
+            "name": "Банан",
+            "price": "100 руб",
+            "number": "55 тонн"
+        },
+        "product4": {
+            "img": "./img/kiwi.png",
+            "name": "Киви",
+            "price": "10 руб",
+            "number": "44 тонны"
+        },
+        "product5": {
+            "img": "./img/ananas.png",
+            "name": "Ананас",
+            "price": "4 руб",
+            "number": "22 тонны"
+        },
+        "product6": {
+            "img": "./img/апельсин.png",
+            "name": "Апельсин",
+            "price": "10 руб",
+            "number": "22 тонны"
+        },
+        "product7": {
+            "img": "./img/груша.png",
+            "name": "Груша",
+            "price": "10 руб",
+            "number": "66 тонн"
+        },
+        "product8": {
+            "img": "./img/грейп.png",
+            "name": "Грейпфрут",
+            "price": "10 руб",
+            "number": "33 тонны"
+        }
+    }
+}
